@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+body{
+    background:#5533FF ;
+
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 238px;
+}
+h1{
+    font-size: 80px; 
+}
+select{
+    width: 662px;
+    
+   padding: 20px;
+    font-size: 50px;
+    background-color: #ffffff;
+    border: none;
+    
+}
+
+.sel{
+    border-radius: 30px;
+    
+}
